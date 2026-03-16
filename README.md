@@ -14,19 +14,19 @@
   <b>This is the official account of NorthForge Systems.</b>
 </p>
 
-Within the framework of **NorthForge Systems**, I design a future where security is not just a layer, but the heart of the system. As a 14.5-year-old system architect and cybersecurity researcher, I operate across a broad spectrum—from low-level systems programming (C++/Rust) to high-scale network architectures (Go). At NorthForge, we forge the unbreakable and engineer the impossible.
+Under the **NorthForge Systems** umbrella, we design a future where security is the core foundation, not an afterthought. Focused on low-level systems programming, high-scale network architectures, and advanced cyber defense mechanisms. We forge the unbreakable and engineer the impossible.
 
 ---
 
 ## 🛠️ Technical Arsenal (Mastery)
 
-### 💻 Programming Languages (Logic & Performance)
+### 💻 Programming Languages
 | | | | |
 | :--- | :--- | :--- | :--- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
 | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 
-### 🛡️ Cyber Security Tools & Operating Systems
+### 🛡️ Infrastructure & Defense
 | | | |
 | :--- | :--- | :--- |
 | ![Athena OS](https://img.shields.io/badge/Athena_OS-000000?style=for-the-badge&logo=athena-os&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | ![Parrot OS](https://img.shields.io/badge/Parrot_OS-33C1FF?style=for-the-badge&logo=parrot-security&logoColor=black) |
@@ -38,25 +38,20 @@ Within the framework of **NorthForge Systems**, I design a future where security
 
 1. **🛡️ ForgeGuard:** Next-Gen EDR system. Neutralizing threats at the kernel level.
 2. **👣 Shadow-Step:** Invisible network security layer and traffic analysis engine.
-3. **🔍 Hydra-Recon:** Advanced Open-Source Intelligence (OSINT) and data analysis framework.
-4. **🎨 TeorOS:** Security-focused, ultra-modern, and aesthetic user interface design.
-5. **💬 Aegis-Link:** Ultra-secure messaging protocol equipped with post-quantum encryption.
-6. **🌀 Nexus-Core:** Central microservice architecture providing synchronization across NorthForge projects.
-7. **💀 Ghost-Shell:** Advanced post-exploitation framework for Red Team operations.
-8. **🏰 Bastion-X:** Hardened kernel configurations and automated system security scripts.
+3. **🔍 Hydra-Recon:** Advanced Open-Source Intelligence (OSINT) framework.
+4. **🎨 TeorOS:** Security-focused, ultra-modern UI/UX design for cyber tools.
+5. **💬 Aegis-Link:** Secure messaging protocol with post-quantum encryption.
+6. **🌀 Nexus-Core:** Central microservice architecture for ecosystem synchronization.
+7. **💀 Ghost-Shell:** Advanced post-exploitation framework for Red Team ops.
+8. **🏰 Bastion-X:** Hardened kernel configurations and automated security scripts.
 
 ---
 
-## 📈 Real-Time Intelligence & Metrics
+## 📈 Intelligence Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NORTHFORGESYSTEMSNEW&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NORTHFORGESYSTEMSNEW&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NORTHFORGESYSTEMSNEW&theme=tokyonight&margin-w=15&no-bg=true" />
 </p>
 
 ---
